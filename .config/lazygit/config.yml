@@ -1,0 +1,5 @@
+gui:
+  # Use the mocha catppuccin theme
+  theme:
+    selectedLineBgColor:
+      - '#313244'

@@ -1,0 +1,16 @@
+[user]
+	name = DiogoCC7
+	email = dassuncao1234@gmail.com
+
+[alias]
+    cm = commit -m
+    st = status
+[core]
+    editor = nvim
+
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
